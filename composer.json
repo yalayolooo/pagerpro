@@ -1,0 +1,24 @@
+{
+    "name": "yalayolooo/pagerpro",
+    "description": "A library to split results into multiple pages",
+    "keywords": ["pager", "pagerpro", "paginator", "pagination"],
+    "homepage": "https://github.com/yalayolooo/pagerpro",
+    "license": "MIT",
+    "authors": [
+        {
+            "name" : "Matthew Heifiz",
+            "email": "fastequaloffer@gmail.com"
+        }
+    ],
+    "support": {
+        "email": "fastequaloffer@gmail.com"
+    },
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "ISPagerPro\\": "src/"
+        }
+    }
+}
